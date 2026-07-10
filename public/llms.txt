@@ -7,73 +7,73 @@
 ## Pages
 
 ### דף הבית
-https://class-man-b94c9904.zappy5.app
+https://example.com
 חנות אונליין לגברים בלבד מבית קלאס מן. קולקציות אופנה עדכניות, מלתחה מושלמת וסטיילינג אישי שישדרגו את ההופעה שלך. היכנס עכשיו וגלה את הלוק הבא.
 
 ### מדריך סגנון
-https://class-man-b94c9904.zappy5.app/style-guide
+https://example.com/style-guide
 מדריך הסגנון של קלאס מן חושף את הסודות להרכבה נכונה של בגדים לגברים. קבל רעיונות, שילובים מנצחים וטרנדים שיהפכו כל הופעה לבלתי נשכחת.
 
 ### אודות
-https://class-man-b94c9904.zappy5.app/about
+https://example.com/about
 קלאס מן נולדה מתוך תשוקה להלביש גברים בביטחון. הכירו את החזון, הערכים והמחויבות לאיכות שהופכים כל פריט בחנות לחוויה אופנתית ייחודית.
 
 ### שאלות נפוצות
-https://class-man-b94c9904.zappy5.app/faq
+https://example.com/faq
 שאלות נפוצות על קניית בגדים לגברים בקלאס מן. מידע מלא על מידות, מדיניות משלוחים, החזרות וטיפים לבחירה נכונה. כל מה שצריך כדי לקנות בראש שקט.
 
 ### צור קשר
-https://class-man-b94c9904.zappy5.app/contact
+https://example.com/contact
 צור קשר עם צוות קלאס מן לקבלת ייעוץ אישי באופנת גברים. נשמח לעזור בשאלות על פריטים, התאמה אישית וכל מה שקשור למלתחה הגברית המושלמת.
 
 ### Products
-https://class-man-b94c9904.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Class Man
 
 ### Cart
-https://class-man-b94c9904.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://class-man-b94c9904.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://class-man-b94c9904.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://class-man-b94c9904.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://class-man-b94c9904.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://class-man-b94c9904.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Class Man
 
 ### Category
-https://class-man-b94c9904.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Class Man
 
 ### תודה - Class Man
-https://class-man-b94c9904.zappy5.app/thank-you
+https://example.com/thank-you
 Class Man - תודה - Class Man
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://class-man-b94c9904.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://class-man-b94c9904.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://class-man-b94c9904.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Men's Fashion E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://class-man-b94c9904.zappy5.app/sitemap.xml
-- Robots: https://class-man-b94c9904.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://class-man-b94c9904.zappy5.app/llms-full.txt
-- Products (JSON): https://class-man-b94c9904.zappy5.app/products.json
-- Products (Google Merchant RSS): https://class-man-b94c9904.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

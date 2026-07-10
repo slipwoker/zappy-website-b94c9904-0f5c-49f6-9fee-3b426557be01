@@ -1,0 +1,108 @@
+# Class Man — Generative Engine Optimization Map
+
+> An online store exclusively dedicated to men's fashion and clothing. The store focuses solely on male apparel, offering a targeted shopping experience for men looking to purchase clothing online.
+
+---
+
+## Pages
+
+### דף הבית
+https://class-man-b94c9904.zappy5.app
+חנות אונליין לגברים בלבד מבית קלאס מן. קולקציות אופנה עדכניות, מלתחה מושלמת וסטיילינג אישי שישדרגו את ההופעה שלך. היכנס עכשיו וגלה את הלוק הבא.
+
+### מדריך סגנון
+https://class-man-b94c9904.zappy5.app/style-guide
+מדריך הסגנון של קלאס מן חושף את הסודות להרכבה נכונה של בגדים לגברים. קבל רעיונות, שילובים מנצחים וטרנדים שיהפכו כל הופעה לבלתי נשכחת.
+
+### אודות
+https://class-man-b94c9904.zappy5.app/about
+קלאס מן נולדה מתוך תשוקה להלביש גברים בביטחון. הכירו את החזון, הערכים והמחויבות לאיכות שהופכים כל פריט בחנות לחוויה אופנתית ייחודית.
+
+### שאלות נפוצות
+https://class-man-b94c9904.zappy5.app/faq
+שאלות נפוצות על קניית בגדים לגברים בקלאס מן. מידע מלא על מידות, מדיניות משלוחים, החזרות וטיפים לבחירה נכונה. כל מה שצריך כדי לקנות בראש שקט.
+
+### צור קשר
+https://class-man-b94c9904.zappy5.app/contact
+צור קשר עם צוות קלאס מן לקבלת ייעוץ אישי באופנת גברים. נשמח לעזור בשאלות על פריטים, התאמה אישית וכל מה שקשור למלתחה הגברית המושלמת.
+
+### Products
+https://class-man-b94c9904.zappy5.app/products
+המוצרים שלנו - Class Man
+
+### Cart
+https://class-man-b94c9904.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://class-man-b94c9904.zappy5.app/checkout
+תשלום
+
+### Login
+https://class-man-b94c9904.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://class-man-b94c9904.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://class-man-b94c9904.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://class-man-b94c9904.zappy5.app/product/:slug
+פרטי המוצר - Class Man
+
+### Category
+https://class-man-b94c9904.zappy5.app/category/:slug
+מוצרים - Class Man
+
+### תודה - Class Man
+https://class-man-b94c9904.zappy5.app/thank-you
+Class Man - תודה - Class Man
+
+## Legal & Policy
+
+### Privacy Policy
+https://class-man-b94c9904.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://class-man-b94c9904.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://class-man-b94c9904.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Class Man
+An online store exclusively dedicated to men's fashion and clothing. The store focuses solely on male apparel, offering a targeted shopping experience for men looking to purchase clothing online.
+
+## Target Audience
+- גברים
+- סטודנטים חובבי אופנה
+- צעירים
+
+## Industry
+Men's Fashion E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://class-man-b94c9904.zappy5.app/sitemap.xml
+- Robots: https://class-man-b94c9904.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://class-man-b94c9904.zappy5.app/llms-full.txt
+- Products (JSON): https://class-man-b94c9904.zappy5.app/products.json
+- Products (Google Merchant RSS): https://class-man-b94c9904.zappy5.app/product-feed.xml
